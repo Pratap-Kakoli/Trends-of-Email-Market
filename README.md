@@ -27,8 +27,10 @@ BirthDate: Date of birth.</br>
 Marital Status: Marital status.</br>
 Enrolled on: Enrollment date.Living status: Living arrangement (e.g., "couple with children").</br>
 Screenshot of Uploading Dataset in Power BI :- 
+<img src="https://github.com/Pratap-Kakoli/Trends-of-Email-Market/blob/main/Screenshot%202025-03-21%20031702.png">
+<img src="https://github.com/Pratap-Kakoli/Trends-of-Email-Market/blob/main/Screenshot%202025-03-21%20031737.png">
+<img src="https://github.com/Pratap-Kakoli/Trends-of-Email-Market/blob/main/Screenshot%202024-12-21%20143259.png">
 
 # Conclusion:- 
 The dataset analysis will provide actionable insights into customer demographics and engagement patterns with email marketing campaigns. These insights can guide businesses in designing more targeted and effective email marketing strategies, ultimately leading to improved customer retention and conversion rates. Further exploration can uncover region-specific trends and preferences, enabling a more localized approach to marketing.
 By utilizing tools such as Power BI, Python, and Excel, this project demonstrates the power of data-driven decision-making in enhancing email marketing outcomes in the Indian market.
-##Work 1 Submit By :- Pratap Mahata , AICTE ( Internship Student Registration ID) : STU63e97a4db9f371676245581
