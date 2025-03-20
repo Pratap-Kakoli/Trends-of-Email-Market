@@ -1,6 +1,6 @@
 # Trends-of-Email-Market
 ## Name :- Pratap Mahata 
-AICTE Internship Student Registration ID) : STU63e97a4db9f371676245581
+AICTE Internship Student Registration ID) : STU63e97a4db9f371676245581</br>
 <a href="https://github.com/Pratap-Kakoli/Trends-of-Email-Market/blob/main/Week1-%20Trends%20of%20Email%20Marketing%20in%20India.docx">Project Report</a>
 # Aim:- 
 This project aims to explore the effectiveness of email marketing in India by studying customer behavior, demographics, and engagement trends. This exploration will enable businesses to develop more personalized and impactful marketing campaigns.
