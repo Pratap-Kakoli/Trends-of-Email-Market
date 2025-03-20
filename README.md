@@ -6,9 +6,9 @@ This project aims to explore the effectiveness of email marketing in India by st
 # Objective:-
 This project aims to analyze the trends in email marketing within the Indian market. By leveraging customer profile data, the study aims to identify patterns and insights that can optimize email marketing strategies, enhance customer engagement, and improve conversion rates.
 # Tools Used:-
-Microsoft Power BI: To visualize and analyze data trends.</br>
-Microsoft Excel: For initial data cleaning and exploration.</br>
-Python: To preprocess and extract insights from the dataset.
+<ul>Microsoft Power BI:</ul> To visualize and analyze data trends.</br>
+<ul>Microsoft Excel:</ul> For initial data cleaning and exploration.</br>
+<ul>Python:</ul> To preprocess and extract insights from the dataset.
 # Problem Statement :-
 What are the key demographics and behavioral patterns of email marketing recipients in India?</br>
 How can businesses tailor their email marketing strategies to align with customer preferences?</br>
