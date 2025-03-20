@@ -4,11 +4,11 @@ AICTE Internship Student Registration ID) : STU63e97a4db9f371676245581
 # Aim:- 
 This project aims to explore the effectiveness of email marketing in India by studying customer behavior, demographics, and engagement trends. This exploration will enable businesses to develop more personalized and impactful marketing campaigns.
 # Objective:-
-## This project aims to analyze the trends in email marketing within the Indian market. By leveraging customer profile data, the study aims to identify patterns and insights that can optimize email marketing strategies, enhance customer engagement, and improve conversion rates.
+This project aims to analyze the trends in email marketing within the Indian market. By leveraging customer profile data, the study aims to identify patterns and insights that can optimize email marketing strategies, enhance customer engagement, and improve conversion rates.
 # Tools Used:-
-##Microsoft Power BI: To visualize and analyze data trends.
-Microsoft Excel: For initial data cleaning and exploration.
-Python: To preprocess and extract insights from the dataset.
+Microsoft Power BI: To visualize and analyze data trends.</br>
+Microsoft Excel: For initial data cleaning and exploration.</br>
+Python: To preprocess and extract insights from the dataset.
 #Problem Statement :-
 ##What are the key demographics and behavioral patterns of email marketing recipients in India?
  How can businesses tailor their email marketing strategies to align with customer preferences?
