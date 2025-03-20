@@ -14,6 +14,7 @@ What are the key demographics and behavioral patterns of email marketing recipie
 How can businesses tailor their email marketing strategies to align with customer preferences?</br>
 What factors influence the effectiveness of email campaigns in different regions of India?
 # Dataset Overview:-
+<a href=">Dataset</a>
 The dataset contains customer profile data with the following key fields:</br>
 Id: Unique customer identifier.</br>
 Type: Customer type (e.g., Business, Individual).</br>
